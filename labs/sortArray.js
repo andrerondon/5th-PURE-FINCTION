@@ -2,7 +2,7 @@
 
 const words = ['blue', 'apple', 'likes', 'bandaids'];
 
-function sortArray(n){
+function sortArray(){
     let newArr = [...words]
     let arr2 = newArr.sort()
     return arr2

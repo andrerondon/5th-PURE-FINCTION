@@ -1,5 +1,5 @@
 
-g
+// PURE FINCTION
 
 
 
